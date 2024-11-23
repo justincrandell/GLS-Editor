@@ -2,4 +2,5 @@
 
 Architectural design editing tool using OpenLayer
 
-./assets/images/map.jpeg
+## Screenshot
+![Image 0](./assets/images/map.jpeg)
